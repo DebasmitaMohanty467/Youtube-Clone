@@ -49,5 +49,5 @@ The project is live!
 ---
 
 ## 📞 Contact
-- **Author:** Suraj Nishad
-- **Email:** iamsuraj0737@gmail.com
+- **Author:** Debasmita Mohanty
+- **Email:** debasmitamohanty.dkm@gmail.com
