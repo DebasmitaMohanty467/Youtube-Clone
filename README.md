@@ -38,7 +38,7 @@ project-root/
 ---
 
 The project is live!  
-👉 **[View Live Demo](https://youtubeclone2025.netlify.app/)**
+👉 **[View Live Demo](youtube-clone2026.netlify.app)**
 
 ---
 ---
